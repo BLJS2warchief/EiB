@@ -11,4 +11,5 @@ time on bookmarking pages.
 [**Saakshi Jain**](https://github.com/sa4k5hi) <br />
 [**Shubham Kumar**](https://github.com/The-Deadly)
 
-noice team
+mr.x: noice team
+balaji: thank you, i put it together myself
