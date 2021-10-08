@@ -10,6 +10,3 @@ time on bookmarking pages.
 [**Naga Sai Sree Balaji Meruva**](https://github.com/BLJS2warchief) <br />
 [**Saakshi Jain**](https://github.com/sa4k5hi) <br />
 [**Shubham Kumar**](https://github.com/The-Deadly)
-
-mr.x: noice team
-balaji: thank you, i put it together myself
